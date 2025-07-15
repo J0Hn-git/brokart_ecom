@@ -17,11 +17,11 @@ It allows customers to browse products, manage their cart, place secure orders, 
 
 | Layer        | Technology                  |
 |--------------|-----------------------------|
-| Frontend     | HTML, CSS, Bootstrap / React (optional) |
+| Frontend     | HTML, CSS, Bootstrap        |
 | Backend      | Django (Python)             |
 | Database     | PostgreSQL / SQLite         |
-| Deployment   | GitHub, Render / Heroku / Vercel |
-| Others       | Django Admin, Django REST Framework (optional)
+| Deployment   | GitHub                      |
+| Others       | Django Admin                |
 
 Setup Database & Run Server
 bash
