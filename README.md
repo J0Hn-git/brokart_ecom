@@ -32,3 +32,5 @@ python manage.py migrate
 python manage.py runserver
 
 <img width="1902" height="714" alt="image" src="https://github.com/user-attachments/assets/f0cdd710-22c5-4d2c-8227-2032ff49cc04" />
+
+C:\Users\John Joji\Downloads\ecommerce_interface.png
